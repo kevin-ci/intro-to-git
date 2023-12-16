@@ -7,4 +7,4 @@ assignees: kevin-ci
 
 ---
 
-
+As a *role*, I want to *capabiltiy* so that *benefit*.
